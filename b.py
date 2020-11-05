@@ -1,0 +1,11 @@
+deretangka = [[1,2,3],[4,5,6],[7,8,9],0]
+print("Baris Pertama, Kolom Pertama adalah")
+print(deretangka[0][0])
+print("Baris Pertama, Kolom Kedua adalah")
+print(deretangka[0][1])
+print("Baris Pertama, Kolom Ketiga adalah")
+print(deretangka[0][2])
+print("Baris Ketiga, Kolom Ketiga adalah")
+print(deretangka[2][2])
+print("Baris Keempat, Kolom Pertama adalah")
+print(deretangka[3])
